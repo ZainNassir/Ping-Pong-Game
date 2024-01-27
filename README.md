@@ -1,6 +1,6 @@
 # Ping-Pong-Game
 
-##GOAL
+## GOAL
 
 Play the game on loop. In the future other features will be added to the game like sound effects, levels, music, score etc. 
 
